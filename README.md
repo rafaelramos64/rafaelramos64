@@ -10,9 +10,9 @@
 🌱  &nbsp; I’m Available for new challenges and proposals <br>
 
 ### 📫 How to reach me? 🌎
-![Email](rafaelmaggo64@gmail.com)
+![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)
 ![Linkedin: Rafael Ramos](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-ramos64/)
-![Programathor:](https://programathor.com.br/users/89654)
+Programathor: https://programathor.com.br/users/89654
 
 🚀 &nbsp; Check out my [Portfolio](https://rafaelramos64.github.io/) <br>
 
@@ -26,7 +26,7 @@ These are some of the technologies and tools that I work with:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![BootstrapVue](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
