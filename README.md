@@ -1,20 +1,3 @@
-﻿# Olá, meu nome é Rafael Ramos
-## Sou aluno do curso Tecnólogo em Análise e Desenvolvimento de Sistemas - IFPI Campus Picos-PI
-## Sou de Picos-PI, Brasil
-
-# Com o que estou trabalhando:
-## Disponível para novos desafios
-## Dev JR Web front-end
-
-# Contatos:
-## Email: rafaelmaggo64@gmail.com
-## Linkedin: https://www.linkedin.com/in/rafael-ramos64/
-## Programathor: https://programathor.com.br/users/89654
-
-# Frameworks
-
-# Linguagens
-
 ## Hello, I'm Rafael Ramos! 👋
 
 🧑‍🏫  &nbsp; Student of the course Technologist in Systems Analysis and Development at IFPI Campus Picos-PI
@@ -39,7 +22,7 @@ These are some of the technologies and tools that I work with:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![BootstrapVue](https://bootstrap-vue.org/)
+![BootstrapVue](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
@@ -49,6 +32,6 @@ These are some of the technologies and tools that I work with:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesielviana&hide=html&layout=compact" />
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelramos64&hide=html&layout=compact" />
 <!-- <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jesielviana&theme=default" /> -->
 
