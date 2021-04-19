@@ -9,9 +9,9 @@
 🌱  Available for new challenges <br>
 
 ### 📫 How to reach me? 🌎
-[![Email](rafaelmaggo64@gmail.com)]
-[![Linkedin: ]](https://www.linkedin.com/in/rafael-ramos64/)
-[![Programathor: rafaelramos]](http://instagram.com/jesielviana)
+![Email](rafaelmaggo64@gmail.com)
+![Linkedin: ](https://www.linkedin.com/in/rafael-ramos64/)
+![Programathor: rafaelramos](http://instagram.com/jesielviana)
 
 
 ## ⚡ Technologies
