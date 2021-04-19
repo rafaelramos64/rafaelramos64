@@ -6,13 +6,15 @@
 
 ### What I'm working on 👨‍💻
 🔭  &nbsp; I’m currently working on [Brainstorm 635 online](https://app-brainstorming.web.app/) <br>
-🌱  Available for new challenges <br>
-💬  &nbsp; Ask me about Web Developmnet, HTTP, HTML, CSS, Javascript, Node.js, PBL... <br>
+💬  &nbsp; I’m currently learning Vue.js, Vuex, Postgres, Sequelize, Node.js... <br>
+🌱  &nbsp; I’m Available for new challenges and proposals <br>
 
 ### 📫 How to reach me? 🌎
 ![Email](rafaelmaggo64@gmail.com)
 ![Linkedin: Rafael Ramos](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-ramos64/)
 ![Programathor:](https://programathor.com.br/users/89654)
+
+🚀 &nbsp; Check out my [Portfolio](https://rafaelramos64.github.io/) <br>
 
 
 ## ⚡ Technologies
