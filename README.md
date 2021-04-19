@@ -10,8 +10,8 @@
 
 ### 📫 How to reach me? 🌎
 ![Email](rafaelmaggo64@gmail.com)
-![Linkedin: ](https://www.linkedin.com/in/rafael-ramos64/)
-![Programathor: rafaelramos](http://instagram.com/jesielviana)
+[![Linkedin: Rafael Ramos](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-ramos64/)]
+![Programathor:](https://programathor.com.br/users/89654)
 
 
 ## ⚡ Technologies
