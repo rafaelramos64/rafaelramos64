@@ -7,6 +7,7 @@
 ### What I'm working on 👨‍💻
 🔭  &nbsp; I’m currently working on [Brainstorm 635 online](https://app-brainstorming.web.app/) <br>
 🌱  Available for new challenges <br>
+💬  &nbsp; Ask me about Web Developmnet, HTTP, HTML, CSS, Javascript, Node.js, PBL... <br>
 
 ### 📫 How to reach me? 🌎
 ![Email](rafaelmaggo64@gmail.com)
