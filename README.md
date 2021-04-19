@@ -1,6 +1,7 @@
 ## Hello, I'm Rafael Ramos! 👋
 
-🧑‍🏫  &nbsp; Student of the course Technologist in Systems Analysis and Development at IFPI Campus Picos-PI
+🧑‍🏫  &nbsp; Student of the course Technologist in Systems Analysis and Development at IFPI Campus Picos-PI<br>
+
 🇧🇷  &nbsp; Living in Picos-PI, Brazil
 
 ### What I'm working on 👨‍💻
