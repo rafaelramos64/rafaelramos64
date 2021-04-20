@@ -33,6 +33,7 @@ These are some of the technologies and tools that I work with:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
 
 ### 🎲 Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
