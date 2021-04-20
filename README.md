@@ -13,7 +13,7 @@
 ### 📫 How to reach me? 🌎
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](rafaelmaggot64@gmail.com)
 ![Linkedin: Rafael Ramos](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-ramos64/)
-![Programathor: Rafael Ramos](https://programathor.com.br/users/89654)
+[![Programathor: Rafael Ramos](https://img.shields.io/badge/-Programathor-black?style=flat-square&logo=programathor)](https://programathor.com.br/users/89654)
 
 🚀 &nbsp; Check out my [Portfolio](https://rafaelramos64.github.io/) <br>
 
