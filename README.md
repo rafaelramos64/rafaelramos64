@@ -48,7 +48,7 @@ These are some of the technologies and tools that I work with:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-<h2 align="center">📊 Estatísticas</h2>
+<h2 align="left">📊 Estatísticas</h2>
 
 <img width="420px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelramos64&hide=html&layout=compact&text_color=4654A3&title_color=F95B3D&bg_color=181925&icon_color=F95B3D" />
 <!-- <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jesielviana&theme=default" /> -->
