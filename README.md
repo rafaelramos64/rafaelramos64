@@ -54,6 +54,6 @@ These are some of the technologies and tools that I work with:
 <img width="430px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelramos64&hide=html&layout=compact&text_color=4654A3&title_color=F95B3D&bg_color=181925&icon_color=F95B3D" />
 <!-- <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jesielviana&theme=default" /> -->
 
-<img  width="460px" style="padding-top: 5px; padding-bottom: 5px; src="https://github-readme-stats.vercel.app/api?username=rafaelramos64&count_private=true&show_icons=true&text_color=4654A3&title_color=F95B3D&bg_color=181925&icon_color=F95B3D" alt="RafaelRamos" align="center"/> 
+<img  width="460px" style="padding-top: 5px; padding-bottom: 5px;" src="https://github-readme-stats.vercel.app/api?username=rafaelramos64&count_private=true&show_icons=true&text_color=4654A3&title_color=F95B3D&bg_color=181925&icon_color=F95B3D" alt="RafaelRamos" align="center"/> 
 
 
