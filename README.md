@@ -50,8 +50,8 @@ These are some of the technologies and tools that I work with:
 
 <h2 align="left">📊 Estatísticas</h2><br/>
 <div align="center">
-  <img width="430" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelramos64&&langs_count=8&layout=compact&text_color=4654A3&title_color=F95B3D&bg_color=181925&icon_color=F95B3D" />
+  <img width="405" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelramos64&&langs_count=8&layout=compact&text_color=4654A3&title_color=F95B3D&bg_color=181925&icon_color=F95B3D" />
   <!-- <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jesielviana&theme=default" /> -->
 
-  <img width="410px" src="https://github-readme-stats.vercel.app/api?username=rafaelramos64&count_private=true&show_icons=true&text_color=4654A3&title_color=F95B3D&bg_color=181925&icon_color=F95B3D" alt="RafaelRamos" align="center"/> 
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=rafaelramos64&count_private=true&show_icons=true&text_color=4654A3&title_color=F95B3D&bg_color=181925&icon_color=F95B3D" alt="RafaelRamos" align="center"/> 
 </div>
