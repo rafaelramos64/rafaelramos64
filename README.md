@@ -46,7 +46,7 @@ These are some of the technologies and tools that I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-orange?style=flat-square&logo=gitlab)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-white?style=flat-square&logo=notion)
+![Notion](https://img.shields.io/badge/-Notion-gray?style=flat-square&logo=notion)
 ![Trello](https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=trello)
 
 
