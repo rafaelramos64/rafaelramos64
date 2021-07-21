@@ -29,6 +29,7 @@ These are some of the technologies and tools that I work with:
 ![Python](https://img.shields.io/badge/-Python3-black?style=flat-square&logo=python)
 
 ### ✨ Frameworks
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Quasar](https://img.shields.io/badge/-Quasar-black?style=flat-square&logo=quasar)
