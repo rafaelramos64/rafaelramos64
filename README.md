@@ -49,7 +49,7 @@ These are some of the technologies and tools that I work with:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-gray?style=flat-square&logo=notion)
 ![Trello](https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=trello)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8999de89-e90e-4dec-b5ae-c3191b09d14e/deploy-status)]
+[![Netlify](https://api.netlify.com/api/v1/badges/8999de89-e90e-4dec-b5ae-c3191b09d14e/deploy-status)](https://app.netlify.com/sites/teste-alpes-one/deploys)
 
 
 
