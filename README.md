@@ -31,6 +31,7 @@ These are some of the technologies and tools that I work with:
 ### ✨ Frameworks
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+![Vuetify](https://img.shields.io/badge/-Vuetify-0e1e25?style=flat-square&logo=vuetify)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Quasar](https://img.shields.io/badge/-Quasar-black?style=flat-square&logo=quasar)
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -50,7 +51,6 @@ These are some of the technologies and tools that I work with:
 ![Notion](https://img.shields.io/badge/-Notion-gray?style=flat-square&logo=notion)
 ![Trello](https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=trello)
 ![Netlify](https://img.shields.io/badge/-Netlify-0e1e25?style=flat-square&logo=netlify)
-[![Netlify](https://api.netlify.com/api/v1/badges/8999de89-e90e-4dec-b5ae-c3191b09d14e/deploy-status)](https://app.netlify.com/sites/teste-alpes-one/deploys)
 
 
 
