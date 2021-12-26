@@ -55,10 +55,10 @@ These are some of the technologies and tools that I work with:
 
 <h2 align="left">📊 Statistics</h2><br/>
 <div>
-  <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Bren-Dev&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="Brend" />    </p>
+  <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=rafaelramos64&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="Rafael" />    </p>
   <p align="center">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Bren-Dev&show_icons=true&theme=midnight-purple" />
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bren-Dev&theme=midnight-purple&layout=compact" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=rafaelramos64&show_icons=true&theme=midnight-purple" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelramos64&theme=midnight-purple&layout=compact" />
   </p>
 </div>
 
