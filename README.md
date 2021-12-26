@@ -55,7 +55,7 @@ These are some of the technologies and tools that I work with:
 
 <h2 align="left">📊 Statistics</h2><br/>
 <div>
-  <p align="center"><img height="180rem" src="https://github-readme-streak-stats.herokuapp.com?user=rafaelramos64&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D" alt="Rafael" />   </p>
+  <p align="center"><img height="190rem" src="https://github-readme-streak-stats.herokuapp.com?user=rafaelramos64&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D" alt="Rafael" />   </p>
   <p align="center">
     <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=rafaelramos64&show_icons=true&text_color=E5289E&title_color=9645F4&bg_color=181925&icon_color=9645F4" alt="Rafael" />
     <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelramos64&&langs_count=8&layout=compact&text_color=E5289E&title_color=9645F4&bg_color=181925&icon_color=E5289E" alt="Rafael" />
