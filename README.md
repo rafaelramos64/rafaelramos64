@@ -6,9 +6,8 @@
 
 ### What I'm working on 👨‍💻
 🔭  &nbsp; I’m currently working on [Brainstorm 635 online](https://app-brainstorming.web.app/) <br>
-💬  &nbsp; I’m currently learning Vue.js, Vuex, Postgres, Sequelize, Node.js... <br>
+💬  &nbsp; I’m currently learning NuxtJs, Sass, SSR, Vuetify... <br>
 🌱  &nbsp; I’m Available for new challenges and proposals <br>
-👯  &nbsp;  I’m looking to collaborate on open source projects <br>
 
 ### 📫 How to reach me? 🌎
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](rafaelmaggot64@gmail.com)
@@ -55,6 +54,14 @@ These are some of the technologies and tools that I work with:
 
 
 <h2 align="left">📊 Statistics</h2><br/>
+<div>
+  <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Bren-Dev&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="Brend" />    </p>
+  <p align="center">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Bren-Dev&show_icons=true&theme=midnight-purple" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bren-Dev&theme=midnight-purple&layout=compact" />
+  </p>
+</div>
+
 <div align="center">
   <img width="405" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelramos64&&langs_count=8&layout=compact&text_color=4654A3&title_color=F95B3D&bg_color=181925&icon_color=F95B3D" />
   <!-- <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jesielviana&theme=default" /> -->
