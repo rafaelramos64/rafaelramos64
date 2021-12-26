@@ -58,7 +58,7 @@ These are some of the technologies and tools that I work with:
   <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=rafaelramos64&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="Rafael" />    </p>
   <p align="center">
     <img height="130rem" src="https://github-readme-stats.vercel.app/api?username=rafaelramos64&show_icons=true&theme=midnight-purple" />
-    <img height="130rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelramos64&&langs_count=8&layout=compact&text_color=E5289E&title_color=F95B3D&bg_color=181925&icon_color=9645F4"" />
+    <img height="130rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelramos64&&langs_count=8&layout=compact&text_color=E5289E&title_color=F95B3D&bg_color=181925&icon_color=E5289E"" />
   </p>
 </div>
 
