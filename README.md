@@ -30,8 +30,9 @@ These are some of the technologies and tools that I work with:
 </div><br/
 
 ### ✨ Frameworks
+![Quasar](https://img.shields.io/badge/-Quasar-black?style=flat-square&logo=quasar)
 <div>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
   <img src="https://img.icons8.com/color/48/000000/vue-js.png" />
   <img src="https://img.icons8.com/windows/48/5cbbf6/vuetify.png" />
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" />
@@ -39,12 +40,11 @@ These are some of the technologies and tools that I work with:
  <img src="https://img.icons8.com/color/48/000000/express.png" />
  <img src="https://img.icons8.com/color/48/000000/sass.png" />
 </div>
-![Quasar](https://img.shields.io/badge/-Quasar-black?style=flat-square&logo=quasar)
 
 ### 🎲 Databases
 <div>
 <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
- <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" />
+ <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" />
  <img src="https://img.icons8.com/color/48/000000/firebase.png" />
 </div>
 
