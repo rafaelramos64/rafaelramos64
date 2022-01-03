@@ -23,22 +23,22 @@ These are some of the technologies and tools that I work with:
 
 ### ✔ Languages
 <div> 
- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
- <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://user-images.githubusercontent.com/83739628/147862737-33f8ebf8-4d9e-4da6-93d8-9db063a0fe3f.png" width="48px"> 
- <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/>  
+ <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
+ <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+ <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+ <img src="https://img.icons8.com/color/48/000000/python--v1.png" />
 </div><br/
 
 ### ✨ Frameworks
 <div>
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
-![Vuetify](https://img.shields.io/badge/-Vuetify-5cbbf6?style=flat-square&logo=vuetify)
- <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-![Quasar](https://img.shields.io/badge/-Quasar-black?style=flat-square&logo=quasar)
-<img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-<img src="https://img.icons8.com/color/48/000000/sass.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/vue-js.png" />
+  <img src="https://img.icons8.com/windows/32/5cbbf6/vuetify.png" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+ ![Quasar](https://img.shields.io/badge/-Quasar-black?style=flat-square&logo=quasar)
+ <img src="https://img.icons8.com/fluency/48/000000/node-js.png" />
+ <img src="https://img.icons8.com/color/48/000000/express.png" />
+ <img src="https://img.icons8.com/color/48/000000/sass.png" />
 </div>
 
 ### 🎲 Databases
@@ -50,7 +50,10 @@ These are some of the technologies and tools that I work with:
 
 ### ❄ Others
 <div>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
+ <img src="https://img.icons8.com/color/48/000000/git.png" />
+ <img src="https://img.icons8.com/color/48/000000/npm.png" />
+ <img src="https://img.icons8.com/color/48/000000/linux--v1.png" />
+ <img src="https://img.icons8.com/color/48/000000/windows-10.png" />
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-orange?style=flat-square&logo=gitlab)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
