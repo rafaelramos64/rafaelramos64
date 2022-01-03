@@ -10,8 +10,8 @@
 🌱  &nbsp; I’m Available for new challenges and proposals <br>
 
 ### 📫 How to reach me? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](rafaelmaggot64@gmail.com)
-![Linkedin: Rafael Ramos](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-ramos64/)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:rafaelramos64@protonmail.com)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/rafael-ramos64/) 
 [![Programathor: Rafael Ramos](https://img.shields.io/badge/-Programathor-black?style=flat-square&logo=programathor)](https://programathor.com.br/users/89654)
 
 🚀 &nbsp; Check out my [Portfolio](https://rafaelramos64.github.io/) <br>
@@ -22,10 +22,11 @@
 These are some of the technologies and tools that I work with:
 
 ### ✔ Languages
-<div align="center">
-<img src="https://user-images.githubusercontent.com/83739628/147862683-4309d84b-2adf-4bc3-8ed3-5eb9ed38bffd.png" width="48px">  <img src="https://img.icons8.com/color/48/000000/html5.png"/> 
- <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://user-images.githubusercontent.com/83739628/147862737-33f8ebf8-4d9e-4da6-93d8-9db063a0fe3f.png" width="48px"> 
- <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/>
+<div align="center"> 
+ <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+ <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img src="https://user-images.githubusercontent.com/83739628/147862737-33f8ebf8-4d9e-4da6-93d8-9db063a0fe3f.png" width="48px"> 
+ <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/>  
 </div><br/
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -37,19 +38,19 @@ These are some of the technologies and tools that I work with:
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-5cbbf6?style=flat-square&logo=vuetify)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+ <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 ![Quasar](https://img.shields.io/badge/-Quasar-black?style=flat-square&logo=quasar)
-![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+<img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
+<img src="https://img.icons8.com/color/48/000000/sass.png"/>
 
 ### 🎲 Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 
 ### ❄ Others
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-orange?style=flat-square&logo=gitlab)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
