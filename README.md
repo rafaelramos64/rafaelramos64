@@ -22,7 +22,7 @@
 These are some of the technologies and tools that I work with:
 
 ### ✔ Languages
-<div align="center"> 
+<div> 
  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://user-images.githubusercontent.com/83739628/147862737-33f8ebf8-4d9e-4da6-93d8-9db063a0fe3f.png" width="48px"> 
@@ -30,7 +30,7 @@ These are some of the technologies and tools that I work with:
 </div><br/
 
 ### ✨ Frameworks
-<div align="center">
+<div>
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-5cbbf6?style=flat-square&logo=vuetify)
@@ -42,14 +42,14 @@ These are some of the technologies and tools that I work with:
 </div>
 
 ### 🎲 Databases
-<div align="center">
+<div>
 <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 </div>
 
 ### ❄ Others
-<div align="center">
+<div>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-orange?style=flat-square&logo=gitlab)
