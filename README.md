@@ -46,7 +46,7 @@ These are some of the technologies and tools that I work with:
 <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" />
  <img src="https://img.icons8.com/color/48/000000/firebase.png" />
-</div>
+</div><br/>
 
 ### ❄ Others
 <div>
