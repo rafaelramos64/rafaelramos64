@@ -30,7 +30,6 @@ These are some of the technologies and tools that I work with:
 </div><br/
 
 ### ✨ Frameworks
-<div>
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
   <img src="https://img.icons8.com/color/48/000000/vue-js.png" />
   <img src="https://img.icons8.com/windows/32/5cbbf6/vuetify.png" />
@@ -39,13 +38,12 @@ These are some of the technologies and tools that I work with:
  <img src="https://img.icons8.com/fluency/48/000000/node-js.png" />
  <img src="https://img.icons8.com/color/48/000000/express.png" />
  <img src="https://img.icons8.com/color/48/000000/sass.png" />
-</div>
 
 ### 🎲 Databases
 <div>
 <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+ <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" />
+ <img src="https://img.icons8.com/color/48/000000/firebase.png" />
 </div>
 
 ### ❄ Others
@@ -54,12 +52,12 @@ These are some of the technologies and tools that I work with:
  <img src="https://img.icons8.com/color/48/000000/npm.png" />
  <img src="https://img.icons8.com/color/48/000000/linux--v1.png" />
  <img src="https://img.icons8.com/color/48/000000/windows-10.png" />
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Gitlab](https://img.shields.io/badge/-Gitlab-orange?style=flat-square&logo=gitlab)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-gray?style=flat-square&logo=notion)
-![Trello](https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=trello)
-![Netlify](https://img.shields.io/badge/-Netlify-0e1e25?style=flat-square&logo=netlify)
+ ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+ ![Gitlab](https://img.shields.io/badge/-Gitlab-orange?style=flat-square&logo=gitlab)
+ ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+ ![Notion](https://img.shields.io/badge/-Notion-gray?style=flat-square&logo=notion)
+ ![Trello](https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=trello)
+ ![Netlify](https://img.shields.io/badge/-Netlify-0e1e25?style=flat-square&logo=netlify)
 </div
 
 
