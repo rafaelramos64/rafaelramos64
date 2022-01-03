@@ -30,7 +30,7 @@ These are some of the technologies and tools that I work with:
 </div><br/
 
 ### ✨ Frameworks
-![Quasar](https://img.shields.io/badge/-Quasar-#00B4FF?style=flat-square&logo=quasar)
+![Quasar](https://img.shields.io/badge/-Quasar-00B4FF?style=flat-square&logo=quasar)
 <div>
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
   <img src="https://img.icons8.com/color/48/000000/vue-js.png" />
