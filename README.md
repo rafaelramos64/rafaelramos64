@@ -37,7 +37,7 @@ These are some of the technologies and tools that I work with:
   <img src="https://img.icons8.com/windows/48/5cbbf6/vuetify.png" />
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" />
  <img src="https://img.icons8.com/fluency/48/000000/node-js.png" />
- <img src="https://img.icons8.com/color/48/white/express.png" />
+ <img src="https://img.icons8.com/color/48/dc3545/express.png" />
  <img src="https://img.icons8.com/color/48/000000/sass.png" />
 </div>
 
