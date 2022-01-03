@@ -30,6 +30,7 @@ These are some of the technologies and tools that I work with:
 </div><br/
 
 ### ✨ Frameworks
+<div>
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
   <img src="https://img.icons8.com/color/48/000000/vue-js.png" />
   <img src="https://img.icons8.com/windows/32/5cbbf6/vuetify.png" />
@@ -38,8 +39,10 @@ These are some of the technologies and tools that I work with:
  <img src="https://img.icons8.com/fluency/48/000000/node-js.png" />
  <img src="https://img.icons8.com/color/48/000000/express.png" />
  <img src="https://img.icons8.com/color/48/000000/sass.png" />
+</div>
 
 ### 🎲 Databases
+![Quasar](https://img.shields.io/badge/-Quasar-black?style=flat-square&logo=quasar)
 <div>
 <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" />
