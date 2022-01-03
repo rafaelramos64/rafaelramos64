@@ -1,4 +1,4 @@
-## Hello, I'm Rafael Ramos! 👋
+## Hello, I'm Rafael Ramos! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 🧑‍🏫  &nbsp; Student of the course Technologist in Systems Analysis and Development at IFPI Campus Picos-PI<br>
 
@@ -9,7 +9,7 @@
 💬  &nbsp; I’m currently learning NuxtJs, Sass, SSR, Vuetify... <br>
 🌱  &nbsp; I’m Available for new challenges and proposals <br>
 
-### 📫 How to reach me? 🌎
+### 📫 How to reach me? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](rafaelmaggot64@gmail.com)
 ![Linkedin: Rafael Ramos](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-ramos64/)
 [![Programathor: Rafael Ramos](https://img.shields.io/badge/-Programathor-black?style=flat-square&logo=programathor)](https://programathor.com.br/users/89654)
@@ -22,6 +22,12 @@
 These are some of the technologies and tools that I work with:
 
 ### ✔ Languages
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83739628/147862683-4309d84b-2adf-4bc3-8ed3-5eb9ed38bffd.png" width="48px">  <img src="https://img.icons8.com/color/48/000000/html5.png"/> 
+ <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://user-images.githubusercontent.com/83739628/147862737-33f8ebf8-4d9e-4da6-93d8-9db063a0fe3f.png" width="48px"> 
+ <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/>
+</div><br/
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
