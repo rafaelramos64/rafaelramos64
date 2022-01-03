@@ -12,7 +12,7 @@
 ### 📫 How to reach me? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:rafaelramos64@protonmail.com)
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/rafael-ramos64/) 
-[![Programathor: Rafael Ramos](https://img.shields.io/badge/-Programathor-black?style=flat-square&logo=programathor)](https://programathor.com.br/users/89654)
+[<img src="https://img.icons8.com/color/35/000000/telegram-app--v5.png" alt="Telegram logo" >](https://t.me/@RamosMaster)
 
 🚀 &nbsp; Check out my [Portfolio](https://rafaelramos64.github.io/) <br>
 
