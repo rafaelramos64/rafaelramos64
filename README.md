@@ -48,7 +48,7 @@ These are some of the technologies and tools that I work with:
  <img src="https://img.icons8.com/color/48/000000/firebase.png" />
 </div><br/>
 
-## Métodos/Metodologias
+### Métodos/Metodologias
 ![Git Flow](https://img.shields.io/badge/-GitFlow-black?style=flat-square&logo=gitflow)
 ![BEM](https://img.shields.io/badge/-BEM-D5635D?style=flat-square&logo=bem)
 ![Pixel Perfect](https://img.shields.io/badge/-PixelPerfect-1572B6?style=flat-square&logo=pixelperfect)
